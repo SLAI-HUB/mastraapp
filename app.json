@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Mastra AI Agent",
-    "slug": "MastraAIAgent",
+    "slug": "slai-nexus-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,12 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "sdkVersion": "53.0.0"
+    "sdkVersion": "53.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "f7222d23-9ff3-48ff-af52-453054d087a0"
+      }
+    },
+    "owner": "slai-nexus"
   }
 }
